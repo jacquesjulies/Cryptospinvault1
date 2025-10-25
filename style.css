@@ -366,7 +366,7 @@ banner{
 
 /* Hero Section */
 .hero {
-    background: url('./images/backgroundc.jpg') no-repeat center center/cover;
+    background: url('backgroundc.jpg') no-repeat center center/cover;
     height: 80vh;
     display: flex;
     align-items: center;
@@ -438,4 +438,5 @@ banner{
     font-size: 0.85rem;
     color: #888;
     margin-top: 10px;
+
 }
